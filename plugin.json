@@ -1,0 +1,13 @@
+{
+ "id":"Qiita_TEST",
+ "version":"1",
+ "meta":{
+  "label":"Qiita Test Plugin",
+  "author":"test author",
+  "description":"テストプラグイン",
+  "icon":"icon-thumbs-up",
+  "licenseInfo":"ライセンス",
+  "url":"https://qiita.com/komugiko",
+  "tags":["test"]
+ }
+}
